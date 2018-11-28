@@ -6,3 +6,6 @@ https://codepen.io/guanyingjie/pen/qQKVMQ
 
 ### 002实现网页刷新后随即变换颜色
 https://codepen.io/guanyingjie/pen/gQjjOd
+
+### 003输入框为空时禁止按钮
+https://codepen.io/guanyingjie/pen/EOeMyy
