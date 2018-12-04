@@ -12,3 +12,6 @@ https://codepen.io/guanyingjie/pen/EOeMyy
 
 ### 004实现联动下拉菜单展示
 https://codepen.io/guanyingjie/pen/dQQbwG
+
+### 005利用原生JS实现查询GitHub用户信息的功能
+https://codepen.io/guanyingjie/pen/LXveZE
